@@ -1,6 +1,7 @@
-print("############################## \n")
-print("#                            # \n")
-print("#     Salma Nur Lathifah     # \n")
-print("#        2510817120013       # \n")
-print("#                            # \n")
+print("##############################")
+print("#                            #")
+print("#     Salma Nur Lathifah     #")
+print("#        2510817120013       # ")
+print("#                            #")
+
 print("##############################")
