@@ -1,11 +1,12 @@
 #include <stdio.h>
 
 int main(){
-    printf("############################## \n\n");
-    printf("#                            # \n\n");
-    printf("#     Salma Nur Lathifah     # \n\n");
-    printf("#        2510817120013       # \n\n");
-    printf("#                            # \n\n");
+    printf("############################## \n");
+    printf("#                            # \n");
+    printf("#     Salma Nur Lathifah     # \n");
+    printf("#        2510817120013       # \n");
+    printf("#                            # \n");
     printf("##############################");
     return 0;
+
 }
